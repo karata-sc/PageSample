@@ -1,3 +1,3 @@
 # PageSample
 
-https://karata-sc.github.io/PageSample/
+* https://karata-sc.github.io/PageSample/
